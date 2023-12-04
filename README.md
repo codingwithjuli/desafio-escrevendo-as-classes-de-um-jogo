@@ -15,6 +15,8 @@ Instruções para entrega
 - Operadores
 - Laços de repetição
 - Estruturas de decisões
+- Funções
+- Classes e Objetos
 
 ## Objetivo:
 
@@ -46,6 +48,3 @@ Ao final deve se exibir uma mensagem:
 
  
 Bons estudos 😉
-- Funções
-- Classes e Objetos
-
